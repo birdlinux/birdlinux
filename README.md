@@ -14,7 +14,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 
 ## 2.0 EDV
 I have a lot of experience in the field of Cyber Security and I have worked on many 
-different Projects through out the Years(2015-2022).
+different Projects through out the Years(2015-2023).
 
 ```bash
   - Computer Science       -> Fictional Timetableing System, OCR, FR-CCTV(Face Recognition AI)
