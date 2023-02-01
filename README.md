@@ -2,8 +2,7 @@
 ## Tables of Contents
 - 1.0  About Me
 - 2.0  EDV
-- 3.0  Statistics
-
+- 
 <!-- <br><br><br><br><br><br> -->
 <!-- <p dir="auto" align="center"><a target="_blank" href="https://discord.gg/users/621713529543720970"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p> -->
 
@@ -37,11 +36,3 @@ different Projects through out the Years(2015-2023).
   - MS-Word                -> Documents, Pages, Presentations
   - MS-Access              -> Access Databases, Access Forms
 ```
-
-## 3.0 Statistics
-<details>
-  <summary>:zap: GitHub Stats</summary>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0xG4stb&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xG4stb&show_icons=true&show_icons=true&title_color=&icon_color=f0f0f0&text_color=f0f0f0&bg_color=151b22&hide_border=true" alt="Statistics." />
-</details>
-
