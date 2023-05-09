@@ -3,7 +3,7 @@
 - 1.0  About Me
 - 2.0  EDV
 
-![](https://komarev.com/ghpvc/?username=birdlinux&color=161d2e)
+
 
 <!-- <br><br><br><br><br><br> -->
 <!-- <p dir="auto" align="center"><a target="_blank" href="https://discord.gg/users/621713529543720970"><img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/footers/gray0_ctp_on_line.svg?sanitize=true" style="max-width: 100%;"></a></p> -->
@@ -17,7 +17,7 @@ I am always on the lookout for new projects to work on and new people to collabo
 I have a lot of experience in the field of Cyber Security and I have worked on many 
 different Projects through out the Years(2015-2023).
 
-```golang
+```ini
   - Computer Science       -> Fictional Timetableing System, OCR, FR-CCTV - (Face Recognition AI)
   - Data Science           -> Sentiment Analysis, Natural Language Processing, Machine Learning
   - Software Engineering   -> Web Browser Development, Android Development, iOS Development
